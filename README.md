@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheJaro69
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning python
+- 📫 How to reach me Discord: Marble#5277
